@@ -117,8 +117,8 @@ OSSU 커리큘럼은 **온라인 자료들을 이용한 컴퓨터 과학의 완�
 만약 한번도 for-loop 혹은 프로그래밍이 무엇인지 모른다면, 여기서 시작하세요. 이 코스는 자신만의 페이스에 맞혀서 진행할 수 있으며, 일주일에 몇 시간을 투자할지 조절할 수 있습니다.
 
 **다루는 주제**:
-`simple programs(프로그램 기초)`
-`simple data structures(데이터 구조 기초)`
+`프로그램 기초(simple programs)`<br>
+`데이터 구조 기초(simple data structures)`
 
 | 코스                                                                      | 기간  |    노력도    | 전재 조건 |                  논의                  |
 | :------------------------------------------------------------------------ | :---: | :----------: | :-------: | :------------------------------------: |
@@ -129,8 +129,8 @@ OSSU 커리큘럼은 **온라인 자료들을 이용한 컴퓨터 과학의 완�
 이 코스는 여러분을 컴퓨터 과학의 세계로 초대합니다. 이미 프로그래밍을 경험해봤거나, 해당 코스를 이미 다른 곳에서 배운 적이 있다면 이 코스를 통해서 어떤 느낌으로 진행되는지 감을 잡을 수 있을 것 입니다. 만약 당신이 더 많은 것을 배우고 싶다고 느끼는 채로 이 과정을 끝낸다면, 컴퓨터 과학은 여러분에게 맞을겁니다!
 
 **다루는 주제**:
-`computation(컴퓨테이션)`
-`imperative programming(명령형 프로그래밍)`
+`computation(컴퓨테이션)`<br>
+`imperative programming(명령형 프로그래밍)`<br>
 `basic data structures and algorithms(기초 데이터 구조와 알고리즘)`
 `기타...`
 
@@ -145,16 +145,16 @@ OSSU 커리큘럼은 **온라인 자료들을 이용한 컴퓨터 과학의 완�
 ### Core programming (핵심 프로그래밍)
 
 **다루는 항목**:
-`함수형 프로그래밍 (functional programming)`
-`테스트를 위한 디자인(design for testing)`
-`프로그램 요구사항(program requirements)`
-`일반적인 디자인 패턴(common design patterns)`
-`유닛 테스팅(unit testing)`
-`객체지향 디자인(object-oriented design)`
-`정적 타이핑(static typing)`
+`함수형 프로그래밍 (functional programming)`<br>
+`테스트를 위한 디자인(design for testing)`<br>
+`프로그램 요구사항(program requirements)`<br>
+`일반적인 디자인 패턴(common design patterns)`<br>
+`유닛 테스팅(unit testing)`<br>
+`객체지향 디자인(object-oriented design)`<br>
+`정적 타이핑(static typing)`<br>
 `동적 타이핑(dynamic typing)`
-`메타 언어 (ML-family languages via Standard ML)`
-`Lisp 가족군 언어 (Lisp-family languages via Racket)`
+`메타 언어 (ML-family languages via Standard ML)`<br>
+`Lisp 가족군 언어 (Lisp-family languages via Racket)`<br>
 `Ruby(루비)`
 `기타...`
 
@@ -176,11 +176,11 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 이산수학(CS를 위한 수학)은 알고리즘과 데이터 구조를 공부하는데 있어, 전재 조건이며 밀접하게 관련되어 있습니다. 미적분(Calculus)은 학생들이 이산 수학을 준비할 수 있도록 도와주고 수학적 성숙도를 높이는데 있어 도움을 줍니다.
 
 **다루는 주제**:
-`이산수학(discrete mathematics)`
-`수학적 증명(mathematical proofs)`
-`기초 통계학(basic statistics)`
-`점근/빅오 표기법(O-notation)`
-`이산 확률(discrete probability)`
+`이산수학(discrete mathematics)`<br>
+`수학적 증명(mathematical proofs)`<br>
+`기초 통계학(basic statistics)`<br>
+`점근/빅오 표기법(O-notation)`<br>
+`이산 확률(discrete probability)`<br>
 `기타...`
 
 | 코스                                                                                                                                                                                                                                  | 기간  |     노력도     |                                                                                           메모                                                                                            |                          전재 조건                          |                  논의                  |
@@ -195,10 +195,10 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 이론을 이해하는것은 중요하죠, 하지만 여러분은 프로그램도 만들 줄 알아야 합니다. 이 코스는 이러한 과정들을 더욱 쉽게 만들어주는 여러가지 툴(Tool)들이 존재합니다. 지금 바로 학습해서 프로그램을 코딩의 난이도를 낮추세요.
 
 **다루는 주제**:
-`터미널과 쉘 스크립팅(terminals and shell scripting)`
-`빔 에디터(vim)`
-`명령 환경(command line environments)`
-`버전 컨트롤(version control)`
+`터미널과 쉘 스크립팅(terminals and shell scripting)`<br>
+`빔 에디터(vim)`<br>
+`명령 환경(command line environments)`<br>
+`버전 컨트롤(version control)`<br>
 `기타...`
 
 | 코스                                                                        | 기간 |    노력도    | 전재 조건 |                  논의                  |
@@ -208,19 +208,19 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 ### Core systems (핵심 시스템)
 
 **다루는 주제**:
-`구조적 프로그래밍(procedural programming)`
-`수동 메모리 관리(manual memory management)`
-`불 대수(boolean algebra)`
-`논리 회로(gate logic)`
-`메모리(memory)`
-`컴퓨터 아키텍처(computer architecture)`
-`어셈블리(assembly)`
-`머신 언어(machine language)`
-`가상 머신(virtual machines)`
-`고레벨/고급 언어(high-level languages)`
-`컴파일러(compilers)`
-`운영 체제(operating systems)`
-`네트워크 프로토콜(network protocols)`
+`구조적 프로그래밍(procedural programming)`<br>
+`수동 메모리 관리(manual memory management)`<br>
+`불 대수(boolean algebra)`<br>
+`논리 회로(gate logic)`<br>
+`메모리(memory)`<br>
+`컴퓨터 아키텍처(computer architecture)`<br>
+`어셈블리(assembly)`<br>
+`머신 언어(machine language)`<br>
+`가상 머신(virtual machines)`<br>
+`고레벨/고급 언어(high-level languages)`<br>
+`컴파일러(compilers)`<br>
+`운영 체제(operating systems)`<br>
+`네트워크 프로토콜(network protocols)`<br>
 `기타...`
 
 | 코스                                                                                                                                                                                                                                 |   기간   |     노력도      |                          추가 텍스트 / 과제                          |                                                                               전재 조건                                                                                |                  논의                  |
@@ -233,16 +233,16 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 ### Core theory (핵심 이론)
 
 **다루는 주제**:
-`분할 정복(divide and conquer)`
-`정렬 및 검색(sorting and searching)`
-`확률적 알고리즘(randomized algorithms)`
-`그래프 탐색(graph search)`
-`최단 경로(shortest paths)`
-`데이터 구조(data structures)`
-`탐욕 알고리즘(greedy algorithms)`
-`최소 비용 걸침 나무(minimum spanning trees)`
-`다이나믹/동적 프로그래밍(dynamic programming)`
-`NP 완전(NP-completeness)`
+`분할 정복(divide and conquer)`<br>
+`정렬 및 검색(sorting and searching)`<br>
+`확률적 알고리즘(randomized algorithms)`<br>
+`그래프 탐색(graph search)`<br>
+`최단 경로(shortest paths)`<br>
+`데이터 구조(data structures)`<br>
+`탐욕 알고리즘(greedy algorithms)`<br>
+`최소 비용 걸침 나무(minimum spanning trees)`<br>
+`다이나믹/동적 프로그래밍(dynamic programming)`<br>
+`NP 완전(NP-completeness)`<br>
 `기타...`
 
 | 코스                                                                                                                                                                                     | 기간 |    노력도     |                              전재 조건                               |                  논의                  |
@@ -255,12 +255,12 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 ### Core security (핵심 보안)
 
 **다루는 항목**
-`기밀성(Confidentiality), 무결성(Integrity), 가용성(Availability)`
-`디자인 보안(Secure Design)`
-`방어적 프로그래밍(Defensive Programming)`
-`위협 및 공격(Threats and Attacks)`
-`네트워크 보안(Network Security)`
-`암호학(Cryptography)`
+`기밀성(Confidentiality), 무결성(Integrity), 가용성(Availability)`<br>
+`디자인 보안(Secure Design)`<br>
+`방어적 프로그래밍(Defensive Programming)`<br>
+`위협 및 공격(Threats and Attacks)`<br>
+`네트워크 보안(Network Security)`<br>
+`암호학(Cryptography)`<br>
 `기타...`
 
 메모: **_이 코스들은 잠정적으로 권장됩니다_**. 보안 코스(Security course)에 있어 [공개 코맨트 요구](https://github.com/ossu/computer-science/issues/639)가 있습니다. 기여자들은 RFC의 다양한 과정을 비교하고 피드백을 제공하는 것이 권장됩니다.
@@ -281,18 +281,18 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 ### Core applications (애플리케이션 핵심)
 
 **다루는 항목**:
-`에자일 방법론(Agile methodology)`
-`REST`
-`소프트웨어 사양(software specifications)`
-`리팩토링(refactoring)`
-`관계형 데이터베이스(relational databases)`
-`트렌젝션/거래 처리(transaction processing)`
-`데이터 모델링(data modeling)`
-`신경 회로망(neural networks)`
-`지도 학습(supervised learning)`
-`자율 학습(unsupervised learning)`
-`OpenGL`
-`레이트레이싱(ray tracing)`
+`에자일 방법론(Agile methodology)`<br>
+`REST`<br>
+`소프트웨어 사양(software specifications)`<br>
+`리팩토링(refactoring)`<br>
+`관계형 데이터베이스(relational databases)`<br>
+`트렌젝션/거래 처리(transaction processing)`<br>
+`데이터 모델링(data modeling)`<br>
+`신경 회로망(neural networks)`<br>
+`지도 학습(supervised learning)`<br>
+`자율 학습(unsupervised learning)`<br>
+`OpenGL`<br>
+`레이트레이싱(ray tracing)`<br>
 `기타...`
 
 | 코스                                                                                                                                | 기간  |     노력도     |                                                              전재 조건                                                               |                  논의                  |
@@ -307,11 +307,11 @@ The How to Code 코스는 [How to Design Programs](https://htdp.org/2003-09-26/)
 ### Core ethics (핵심 윤리학)
 
 **다루는 주제**:
-`사회적 맥락(Social Context)`
-`분석 툴(Analytical Tools)`
-`전문적 윤리학(Professional Ethics)`
-`지적 재산(Intellectual Property)`
-`프라이버시와 시민의 자유(Privacy and Civil Liberties)`
+`사회적 맥락(Social Context)`<br>
+`분석 툴(Analytical Tools)`<br>
+`전문적 윤리학(Professional Ethics)`<br>
+`지적 재산(Intellectual Property)`<br>
+`프라이버시와 시민의 자유(Privacy and Civil Liberties)`<br>
 `기타...`
 
 | 코스                                                                                                                                             | 기간 |   노력도    | 전재 조건 |                   논의                    |
@@ -329,12 +329,12 @@ Core CS에서 **모든 필수 과정**을 완료한 후, 학생들은 관심에 
 ### Advanced programming (고급 프로그래밍)
 
 **다루는 항목**:
-`디버깅 이론과 연습(debugging theory and practice)`
-`목표 지향 프로그래밍(goal-oriented programming)`
-`병렬 컴퓨팅(parallel computing)`
-`목표지향 분석과 설계(object-oriented analysis and design)`
-`UML`
-`대규모 소프트웨어 아키텍처 및 설계(large-scale software architecture and design)`
+`디버깅 이론과 연습(debugging theory and practice)`<br>
+`목표 지향 프로그래밍(goal-oriented programming)`<br>
+`병렬 컴퓨팅(parallel computing)`<br>
+`목표지향 분석과 설계(object-oriented analysis and design)`<br>
+`UML`<br>
+`대규모 소프트웨어 아키텍처 및 설계(large-scale software architecture and design)`<br>
 `기타...`
 
 | 코스                                                                                                                                                                              | 기간  |    노력도     |              전재 조건              |
@@ -351,19 +351,19 @@ Core CS에서 **모든 필수 과정**을 완료한 후, 학생들은 관심에 
 ### Advanced systems (시스템 고급)
 
 **다루는 항목**:
-`디지털 신호(digital signaling)`
-`조합 논리(combinational logic)`
-`CMOS 기술(CMOS technologies)`
-`순차 논리(sequential logic)`
-`유한 상태 기계(finite state machines)`
-`프로세서 명령 집합(processor instruction sets)`
-`캐시(caches)`
-`파이프라이닝(pipelining)`
-`가상화(virtualization)`
-`병렬 처리(parallel processing)`
-`가상 메모리(virtual memory)`
-`동기화 프리미티브(synchronization primitives)`
-`시스템 호출 인터페이스(system call interface)`
+`디지털 신호(digital signaling)`<br>
+`조합 논리(combinational logic)`<br>
+`CMOS 기술(CMOS technologies)`<br>
+`순차 논리(sequential logic)`<br>
+`유한 상태 기계(finite state machines)`<br>
+`프로세서 명령 집합(processor instruction sets)`<br>
+`캐시(caches)`<br>
+`파이프라이닝(pipelining)`<br>
+`가상화(virtualization)`<br>
+`병렬 처리(parallel processing)`<br>
+`가상 메모리(virtual memory)`<br>
+`동기화 프리미티브(synchronization primitives)`<br>
+`시스템 호출 인터페이스(system call interface)`<br>
 `기타...`
 
 | 코스                                                                                                                                                    | 기간  |   노력도    |                           전재 조건                           |
@@ -375,19 +375,19 @@ Core CS에서 **모든 필수 과정**을 완료한 후, 학생들은 관심에 
 ### Advanced theory (고급 이론)
 
 **다루는 항목**:
-`형식 언어(formal languages)`
-`튜링 머신(Turing machines)`
-`계산 가능성(computability)`
-`사건 구성 동시성(event-driven concurrency)`
-`오토마타(automata)`
-`분산 공유 메모리(distributed shared memory)`
-`컨센서 알고리즘(consensus algorithms)`
-`상태 기계 복제(state machine replication)`
-`계산 기하학 이론(computational geometry theory)`
-`명제 논리(propositional logic)`
-`관계 논리(relational logic)`
-`허브렌드 논리(Herbrand logic)`
-`게임 트리(game trees)`
+`형식 언어(formal languages)`<br>
+`튜링 머신(Turing machines)`<br>
+`계산 가능성(computability)`<br>
+`사건 구성 동시성(event-driven concurrency)`<br>
+`오토마타(automata)`<br>
+`분산 공유 메모리(distributed shared memory)`<br>
+`컨센서 알고리즘(consensus algorithms)`<br>
+`상태 기계 복제(state machine replication)`<br>
+`계산 기하학 이론(computational geometry theory)`<br>
+`명제 논리(propositional logic)`<br>
+`관계 논리(relational logic)`<br>
+`허브렌드 논리(Herbrand logic)`<br>
+`게임 트리(game trees)`<br>
 `기타...`
 
 | 코스                                                                                                                                                | 기간  |    노력도    |          전재 조건          |
